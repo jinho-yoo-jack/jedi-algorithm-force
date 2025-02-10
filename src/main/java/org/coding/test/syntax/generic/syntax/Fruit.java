@@ -1,4 +1,4 @@
-package org.coding.test.generic.syntax;
+package org.coding.test.syntax.generic.syntax;
 
 public class Fruit {
     private final String color;

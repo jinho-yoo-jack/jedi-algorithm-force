@@ -1,4 +1,4 @@
-package org.coding.test.binary_search;
+package org.coding.test.algo.binary_search;
 
 import java.util.*;
 import java.util.stream.IntStream;

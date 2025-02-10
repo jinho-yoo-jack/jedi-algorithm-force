@@ -1,4 +1,4 @@
-package org.coding.test.generic.syntax.wrong;
+package org.coding.test.syntax.generic.syntax.wrong;
 
 import java.util.*;
 

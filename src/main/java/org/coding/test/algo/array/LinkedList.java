@@ -1,4 +1,4 @@
-package org.coding.test.data.structure.array;
+package org.coding.test.algo.array;
 
 public class LinkedList<T> {
     public class Node {

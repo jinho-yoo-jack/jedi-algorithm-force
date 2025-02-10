@@ -1,8 +1,8 @@
-package org.coding.test.generic.syntax.right;
+package org.coding.test.syntax.generic.syntax.right;
 
-import org.coding.test.generic.syntax.Banana;
-import org.coding.test.generic.syntax.Fruit;
-import org.coding.test.generic.syntax.Strawberry;
+import org.coding.test.syntax.generic.syntax.Banana;
+import org.coding.test.syntax.generic.syntax.Fruit;
+import org.coding.test.syntax.generic.syntax.Strawberry;
 
 import java.util.ArrayList;
 import java.util.List;

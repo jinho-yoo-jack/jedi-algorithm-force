@@ -1,4 +1,4 @@
-package org.coding.test.generic.item31;
+package org.coding.test.syntax.generic.item31;
 
 import java.util.function.UnaryOperator;
 
