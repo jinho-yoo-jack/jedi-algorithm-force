@@ -1,4 +1,4 @@
-package org.coding.test.algo.dft;
+package org.coding.test.algo.dfs;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
