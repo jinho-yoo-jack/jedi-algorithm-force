@@ -1,4 +1,4 @@
-package org.coding.test.algo.kakako;
+package com.jedi.testing.kakao;
 
 import java.util.ArrayList;
 import java.util.HashSet;
