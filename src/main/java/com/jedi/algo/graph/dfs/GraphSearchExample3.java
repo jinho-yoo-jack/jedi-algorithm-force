@@ -44,7 +44,6 @@ public class GraphSearchExample3 {
         }
 
         visited[current.x][current.y] = false;
-        currentPaths.removeLast();
     }
 
     public static void main(String[] args) {
