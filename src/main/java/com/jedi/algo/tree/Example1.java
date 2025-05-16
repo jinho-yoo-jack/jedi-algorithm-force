@@ -66,11 +66,11 @@ public class Example1 {
                 node = children.get(idx);
             }
 
-            // 리프 노드 도착
+            // 리프 노드 도착 [1 -> 2 -> 4]
             path.add(node);
-            System.out.println("path: " + path);
-            System.out.println("ball: " + ball);
-            newTarget[node - 1] -= ball;
+            System.out.println("LeafNode ::: " + node);
+            System.out.println(" newTarget[node - 1] ::: " +  (newTarget[node - 1] - ball));
+            newTarget[node - 1] -= ball; // Target Value Update newTarget[node - 1] = newTarget[node - 1] - 1
             if (newTarget[node - 1] < 0) continue;
 
             // 길 회전 (round-robin 방식)
